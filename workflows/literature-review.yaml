@@ -1,0 +1,8 @@
+name: literature-review
+
+steps:
+  - search_papers
+  - summarize_abstracts
+  - cluster_topics
+  - identify_gaps
+  - generate_report
