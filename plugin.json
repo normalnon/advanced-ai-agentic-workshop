@@ -1,9 +1,10 @@
 {
   "name": "advanced-ai-agentic-workshop-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Plugin providing the collection of Antigravity skills from the advanced AI agentic workshop repository.",
   "entry": "./skills",
   "type": "plugin",
   "author": "User",
-  "license": "MIT"
+  "license": "MIT",
+  "manifestVersion": "1"
 }
