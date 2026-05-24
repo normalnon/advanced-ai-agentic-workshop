@@ -1,7 +1,0 @@
-name: financial-analysis
-
-steps:
-  - search_news
-  - analyze_sentiment
-  - compare_companies
-  - generate_investment_memo

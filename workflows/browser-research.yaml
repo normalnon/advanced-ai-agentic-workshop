@@ -1,7 +1,0 @@
-name: browser-research
-
-steps:
-  - open_websites
-  - extract_content
-  - summarize
-  - generate_market_report
